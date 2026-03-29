@@ -53,7 +53,7 @@ Miro:  Utilizado para el modelamiento visual del Roadmap y el Diagrama de Casos 
 Google Drive:  Repositorio central de evidencias del proyecto (Documento ERS, Actas, Burndown).
 11. Anexos
 Enlace al Tablero Trello:  https://trello.com/invite/b/69c8dd29b6e936af1ae199da/ATTId93786d0e6f4aaf04b59f74297a6ea040B52F943/mi-tablero-de-trello
-Enlace al Repositorio de Código (GitHub):  Insertar Link
+Enlace al Repositorio de Código (GitHub):  (https://github.com/maurrodriguezf/Project-Burndown-Sistema-de-Reservas-y-Agendamiento-de-Hotel.git)
 Enlace a Video Presentación (Máx. 7 min):  [Link]
 Diagrama de Casos de Uso:
 Descripción:  El diagrama modela el escenario principal donde el  Recepcionista  consulta la disponibilidad y el  Cliente  interactúa con el sistema para realizar una reserva. El sistema actúa como validador de las reglas de negocio, asegurando que solo se agenden habitaciones en estado "Disponible", impactando directamente en la eficiencia operativa de Alberto.
